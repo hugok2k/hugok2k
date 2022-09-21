@@ -2,7 +2,7 @@
 ### Full Stack Developer
 
 
-🌱 I’m currently learning Typescript
+🌱 I’m currently learning Typescript and Astro
 
 📗 Ask me about JavaScript, React, Redux, HTML, CSS, NodeJS, Express, PostgreSQL, Sequelize, MongoDB
 
