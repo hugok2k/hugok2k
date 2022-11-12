@@ -20,14 +20,28 @@
 📬 How to reach me hugok2k@gmail.com
 
 ### **[Portfolio]**
+🔗 https://hugoavila.vercel.app/
 <a href='https://hugoavila.vercel.app' target='_blank' rel="noreferrer">
 
 ![Portfolio personal](https://raw.githubusercontent.com/hugok2k/portfolio-astro/main/public/images/portfolio.jpg)
 
 </a>
 
-🔗 https://hugoavila.vercel.app/
+### **[GitHub Stats]**
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true" />
+</picture>
 
+### **[Most Used Lenguages]**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=radical)
 
 <br />
 Languages and Tools:
