@@ -6,7 +6,7 @@
 
 🌱 Actualmente me encuentro mejorando mis habilidades en TS
 
-📗 Preguntame sobre JavaScript, React, Redux, Astro, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, HTML, CSS.
+📗 Preguntame sobre JavaScript, TypeScript, React, NextJS, Tailwind, Redux, Astro, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, HTML, CSS.
 
 📬 Puedes contactarme en hugok2k@gmail.com
 
@@ -15,7 +15,7 @@
 ### **[Profile]**
 🌱 I’m currently learning Typescript
 
-📗 Ask me about JavaScript, React, Redux, Astro, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, HTML, CSS.
+📗 Ask me about JavaScript, TypeScript, React, NextJS, Tailwind, Redux, Astro, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, HTML, CSS.
 
 📬 How to reach me hugok2k@gmail.com
 
