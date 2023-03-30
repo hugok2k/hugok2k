@@ -22,9 +22,6 @@
 ### **[Portfolio]**
 🔗 https://hugoavila.vercel.app/
 <a href='https://hugoavila.vercel.app' target='_blank' rel="noreferrer">
-
-![Portfolio personal](https://raw.githubusercontent.com/hugok2k/portfolio-astro/main/public/images/portfolio.jpg)
-
 </a>
 
 ### **[GitHub Stats]**
