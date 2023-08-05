@@ -1,10 +1,7 @@
-
-  <h1 style='margin-bottom:0;padding:0'>¡Hola 👋! Soy Hugo Avila</h1>
-  <h3 style='margin:0;padding:0'>Full Stack Developer</h3>
-
+# ¡Hola 👋! Soy Hugo Avila
+### Full Stack Developer
 
 ### **[ Perfil ]**
-
 🌱 Actualmente me encuentro mejorando mis habilidades en TS<br>
 📗 Estas son algunas de las tecnologías que manejo: JavaScript, TypeScript, React, NextJS, Astro, Tailwind, Redux, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, HTML, CSS.<br>
 📬 Puedes contactarme en [hugok2k@gmail.com](hugoavila.dev@gmail.com)
@@ -16,22 +13,8 @@
   <img src="https://hugoavila.vercel.app/images/og.webp" style='width:400px' />
 </a>
 
-### **[ GitHub Stats ]**
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=radical)
-
 ### **[ Herramientas ]**
+
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -45,4 +28,13 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
+
+### **[ GitHub Stats ]**
+
+[![Hugok2k GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-dark-mode-only)
+[![Hugok2k GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=default#gh-light-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-light-mode-only)
+
 
