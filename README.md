@@ -1,30 +1,22 @@
-# ¡Hey 👋! I'm Hugo Avila
-### Full Stack Developer
+
+  <h1 style='margin-bottom:0;padding:0'>¡Hola 👋! Soy Hugo Avila</h1>
+  <h3 style='margin:0;padding:0'>Full Stack Developer</h3>
 
 
-### **[Perfil]**
+### **[ Perfil ]**
 
-🌱 Actualmente me encuentro mejorando mis habilidades en TS
+🌱 Actualmente me encuentro mejorando mis habilidades en TS<br>
+📗 Estas son algunas de las tecnologías que manejo: JavaScript, TypeScript, React, NextJS, Astro, Tailwind, Redux, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, HTML, CSS.<br>
+📬 Puedes contactarme en [hugok2k@gmail.com](hugoavila.dev@gmail.com)
 
-📗 Preguntame sobre JavaScript, TypeScript, React, NextJS, Tailwind, Redux, Astro, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, HTML, CSS.
+### **[ Portfolio ]**
+🔗 [https://hugoavila.vercel.app/](https://hugoavila.vercel.app/)
 
-📬 Puedes contactarme en hugok2k@gmail.com
-
-
-
-### **[Profile]**
-🌱 I’m currently learning Typescript
-
-📗 Ask me about JavaScript, TypeScript, React, NextJS, Tailwind, Redux, Astro, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, HTML, CSS.
-
-📬 How to reach me hugok2k@gmail.com
-
-### **[Portfolio]**
-🔗 https://hugoavila.vercel.app/
-<a href='https://hugoavila.vercel.app' target='_blank' rel="noreferrer">
+<a href='https://hugoavila.vercel.app' style='display:flex;flex-direction:column;justify-content:flex-start'>
+  <img src="https://hugoavila.vercel.app/images/og.webp" style='width:400px' />
 </a>
 
-### **[GitHub Stats]**
+### **[ GitHub Stats ]**
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true&theme=radical"
@@ -37,11 +29,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true" />
 </picture>
 
-### **[Most Used Lenguages]**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=radical)
 
-<br />
-Languages and Tools:
+### **[ Herramientas ]**
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -55,3 +45,4 @@ Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
+
