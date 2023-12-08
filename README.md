@@ -31,9 +31,6 @@
 
 ### **[ GitHub Stats ]**
 
-[![Hugok2k GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-dark-mode-only)
-[![Hugok2k GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hugok2k&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-light-mode-only)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=default#gh-light-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-light-mode-only)
 
