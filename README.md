@@ -2,7 +2,7 @@
 ### Full Stack Developer
 
 ### **[ Perfil ]**
-🌱 Actualmente me encuentro mejorando mis habilidades en TS<br>
+🌱 Actualmente me encuentro mejorando mis habilidades en ciberseguridad<br>
 📗 Estas son algunas de las tecnologías que manejo: JavaScript, TypeScript, React, NextJS, Astro, Tailwind, Redux, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, HTML, CSS.<br>
 📬 Puedes contactarme en [hugok2k@gmail.com](hugoavila.dev@gmail.com)
 
