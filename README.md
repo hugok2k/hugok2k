@@ -7,7 +7,7 @@
 📬 Puedes contactarme en [hugok2k@gmail.com](hugoavila.dev@gmail.com)
 
 ### **[ Portfolio ]**
-🔗 [https://hugoavila.vercel.app/](https://hugoavila.vercel.app/)
+🔗 [https://hugoavila.dev/](https://hugoavila.dev/)
 
 <a href='https://hugoavila.vercel.app' style='display:flex;flex-direction:column;justify-content:flex-start'>
   <img src="https://hugoavila.vercel.app/images/og.webp" style='width:400px' />
