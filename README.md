@@ -1,37 +1,33 @@
 # ¡Hola 👋! Soy Hugo Avila
-### Full Stack Developer
+### Cyber Security Consultant | Full Stack Developer
 
-### **[ Perfil ]**
-🌱 Actualmente me encuentro mejorando mis habilidades en ciberseguridad<br>
-📗 Estas son algunas de las tecnologías que manejo: JavaScript, TypeScript, React, NextJS, Astro, Tailwind, Redux, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, HTML, CSS.<br>
-📬 Puedes contactarme en [hugok2k@gmail.com](hugoavila.dev@gmail.com)
+> Combinando la mentalidad de un atacante con la capacidad de un constructor para crear soluciones robustas y seguras.
 
-### **[ Portfolio ]**
-🔗 [https://hugoavila.dev/](https://hugoavila.dev/)
+### **[ Sobre mí ]**
+* 🛡️ **Ciberseguridad:** Especializado en consultoría técnica, análisis de vulnerabilidades y hardening de sistemas.
+* 💻 **Desarrollo:** Creación de aplicaciones escalables con enfoque en **Security by Design**.
+* 🌐 **Portfolio:** [hugoavila.dev](https://www.hugoavila.dev)
+* 💼 **LinkedIn:** [in/devhugoavila](https://www.linkedin.com/in/devhugoavila)
+* 📬 **Contacto:** [hugok2k@gmail.com](mailto:hugok2k@gmail.com)
 
-<a href='https://hugoavila.vercel.app' style='display:flex;flex-direction:column;justify-content:flex-start'>
-  <img src="https://hugoavila.vercel.app/images/og.webp" style='width:400px' />
-</a>
+---
 
-### **[ Herramientas ]**
+### **[ Redes y Conectividad ]**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devhugoavila)
 
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/logomark-dark.svg" alt="Astro Build" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
+### **[ Stack Tecnológico ]**
 
-### **[ GitHub Stats ]**
+#### **Security & DevOps**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-ffffff?style=flat&logo=owasp&logoColor=000000)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=default#gh-light-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-light-mode-only)
-
-
+#### **Development**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
